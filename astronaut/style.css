@@ -1,0 +1,40 @@
+
+/* reg page */
+.reg-page .card {
+    margin-top: 150px;
+    border-radius: 36px;
+    border: 5px solid #0b3d91;
+    height: 590px;
+    max-width: 450px;
+}
+.reg-page .card-footer {
+    background-color: #0b3d91;
+    margin-top: 28px;
+    border-bottom-left-radius: 29px !important; 
+    border-bottom-right-radius: 29px !important;
+}
+.reg-page p {
+    color: white;
+    font-weight: bold;
+}
+.reg-page a {
+    color: #fedd01;
+    font-weight: bolder;
+}
+.reg-page .form-control {
+    border: 2px solid #fedd01;
+}
+.reg-page .btn {
+    margin-bottom: -19px;
+    margin-top: 12px;
+    background-color: black;
+    color: #fedd01;
+}
+.reg-page label {
+    padding-right: 100%;
+    font-weight: bolder;
+}
+.reg-page .btn:hover {
+    background-color: #fedd01;
+    color: black;
+}
